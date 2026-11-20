@@ -90,3 +90,13 @@ Your pull request updates automatically.
 | **main** | The official version that holds everyone's accepted work |
 
 Need help? Ask in class, or write a comment on your pull request.
+
+
+# About Me
+Hello! My name is Chiroma Paul, and I am a final-year Computer Engineering student with an interest in technology, cybersecurity, and digital innovation.
+
+## Why I Joined
+I joined this training to develop practical AI skills, learn from others, and understand how to apply artificial intelligence to solve real-world problems.
+
+## What I Want to Build with AI
+I want to build AI-powered solutions that address everyday challenges, improve access to information, and create opportunities for individuals and communities.
